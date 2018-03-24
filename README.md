@@ -1,4 +1,4 @@
-# Azure Key Vault - Authentication Demo
+# Azure Key Vault - Authentication
 [![Build Status](https://travis-ci.org/tomkerkhove/demo-azure-key-vault-auth.svg?branch=master)](https://travis-ci.org/tomkerkhove/demo-azure-key-vault-auth)
 
 Simple demo on how you can use Azure Key Vault and how you can authenticate.
