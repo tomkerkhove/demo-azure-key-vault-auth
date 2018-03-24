@@ -1,0 +1,11 @@
+language: csharp
+solution: src/TomKerkhove.Demos.KeyVault.sln
+dotnet: 2.0.0
+os:  
+  - linux
+branches:  
+ only:
+   - master
+script:
+ - dotnet --info
+ - dotnet build src/TomKerkhove.Demos.KeyVault.sln --configuration release
